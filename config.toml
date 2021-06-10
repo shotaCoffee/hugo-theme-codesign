@@ -1,0 +1,12 @@
+baseURL = "https://shota.coffee/"
+languageCode = "js"
+title = "codesign"
+contentDir = "post"
+
+googleAnalytics = "UA-151064248-1"
+
+[taxonomies]
+tag = "tags"
+
+[params]
+favicon = "favicon.ico"
