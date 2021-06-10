@@ -1,0 +1,11 @@
+name = "codesign"
+license = "MIT"
+description = "personal blog theme"
+homepage = ""
+tags = ["blog", "minimal", "simple"]
+features = ["minimal", "simple", "responsive", "google analytics integration", "syntax highlight"]
+min_version = "0.82"
+
+[author]
+name = "shotaCoffee"
+homepage = "https://shota.coffee/"
